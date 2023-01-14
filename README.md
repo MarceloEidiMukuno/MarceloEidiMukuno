@@ -14,8 +14,8 @@
   
 <div align="center">
 <a href="https://github.com/marceloeidimukuno">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marceloeidimukuno&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloeidimukuno&layout=compact&theme=tokyonight&langs_count=7">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=marceloeidimukuno&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloeidimukuno&layout=compact&theme=tokyonight&langs_count=7">
 </div>
  
 <div align="center" style="display: inline_block"><br>
